@@ -70,10 +70,11 @@
             }
         ]
     },
-    "native": {
-        "option1": true,
-        "option2": "42"
-    },
+  "native": {
+    "senecurl": "http://xxx.xxx.xxx.xxx/lala.cgi",
+    "option1": true,
+    "option2": "42"
+  },
     "objects": [],
     "instanceObjects": []
 }

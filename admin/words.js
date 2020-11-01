@@ -37,5 +37,9 @@ systemDictionary = {
         "es": "opcion 2",
         "pl": "Opcja 2",
         "zh-cn": "选项2"
+    },
+    "senecurl": {
+        "en": "Senec Url",
+        "de": "Senec Url",
     }
 };
